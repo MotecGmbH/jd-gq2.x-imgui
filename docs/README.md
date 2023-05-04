@@ -1,3 +1,7 @@
+JD Imgui Fork
+=====
+This is a fork of ocornut/imgui that is used in the John Deere Grain Quality 2.x assembly line production software. By forking, we make sure we can still build the software regardless of what might happen to the original repo in the future.
+
 Dear ImGui
 =====
 
